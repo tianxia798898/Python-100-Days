@@ -18,6 +18,7 @@ def draw_rectangle(x, y, width, height):
     turtle.end_fill()
 
 
+
 def draw_star(x, y, radius):
     """绘制五角星"""
     turtle.setpos(x, y)
